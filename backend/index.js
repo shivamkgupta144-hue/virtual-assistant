@@ -13,7 +13,7 @@ const app = express()
 app.use(cors({
     origin: [
         "http://localhost:5173",
-        // "https://virtual-assistant-gamma-rust.vercel.app"
+         "https://virtual-assistant-2-tow5.onrender.com"
     ],
     credentials: true
 }))
