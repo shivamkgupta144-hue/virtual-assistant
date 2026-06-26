@@ -137,7 +137,7 @@ virtual-assistant/
 
 ## Author
 
-**Ritik Rajput**
+**Shivam Kumar Gupta**
 
 GitHub:
-https://github.com/ritikrajput12
+https://github.com/shivamkgupta144-hue
