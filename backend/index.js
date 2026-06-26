@@ -13,7 +13,8 @@ const app = express()
 app.use(cors({
     origin: [
         "http://localhost:5173",
-         "https://virtual-assistant-2-tow5.onrender.com"
+         // "https://virtual-assistant-2-tow5.onrender.com"
+        "https://virtual-assistant-3-lfyn.onrender.com"
     ],
     credentials: true
 }))
