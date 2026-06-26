@@ -3,7 +3,7 @@
 Virtual Assistant is a full-stack AI-powered web application that allows users to interact with a voice-enabled assistant. It can answer questions, search on Google and YouTube, open useful websites, and respond using voice.
 
 **Live Demo:**
-https://virtual-assistant-3-lfyn.onrender.com/signup
+https://virtual-assistant-3-lfyn.onrender.com
 
 ---
 
